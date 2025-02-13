@@ -1,1 +1,1 @@
-trigger new job in
+trigger
